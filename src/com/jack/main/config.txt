@@ -1,0 +1,5 @@
+testssm2
+com.mysql.jdbc.Driver
+jdbc:mysql://127.0.0.1:3306/grade
+root
+jack0240
